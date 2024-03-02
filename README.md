@@ -85,7 +85,7 @@ Next, you can use AWS Serverless Application Repository to deploy ready-to-use a
 
 # Screenshots of it working: 
 
-## Stack bein created:
+## Stack being created:
 <img width="1425" alt="Screenshot 2024-03-01 at 3 25 51 PM" src="https://github.com/AaryaDesai1/Rust_Microservice/assets/143753050/ca20468e-cf5a-43f3-a35d-a0f00867cb9b">
 <img width="1437" alt="Screenshot 2024-03-01 at 3 26 04 PM" src="https://github.com/AaryaDesai1/Rust_Microservice/assets/143753050/cec998c5-7963-4644-9a43-4764e5ed48ff">
 
