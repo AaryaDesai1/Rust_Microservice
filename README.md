@@ -1,5 +1,7 @@
 # Individual Project 4: AWS Lambda Step Functions
 
+### Click [here](https://youtu.be/6tAfbPckc5k) to watch the video demo of this project.
+
 ## Overview
 The objective of this individual project was to build upon previous AWS lambda functions created and using a step function to orchestrate the lambda functions. The step function will be used to call the lambda functions in a specific order and pass the output of one lambda function to the next lambda function. The step function will be triggered by an API Gateway endpoint.
 
